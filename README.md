@@ -4,6 +4,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=C++&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=flat-square&logo=Blender&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white)
 
@@ -15,9 +16,6 @@
 </div>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPTWBSY&layout=compact)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPTWBSY&layout=compact)](https://github.com/KPTWBSY/github-readme-stats)
-
 
 ##
 
