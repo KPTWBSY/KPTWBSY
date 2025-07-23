@@ -12,8 +12,8 @@
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/$KPTWBSY">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=$\KPTWBSY&layout=compact">
+  <a href="https://github.com/KPTWBSY">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPTWBSY&layout=compact">
   </a>
 </p>
 
