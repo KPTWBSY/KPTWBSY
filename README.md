@@ -3,6 +3,11 @@
 ## Tech
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Seulki&count_private=true&show_icons=true&theme=solarized-light)
 
 <!--
 **KPTWBSY/KPTWBSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
