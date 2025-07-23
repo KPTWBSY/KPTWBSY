@@ -16,6 +16,8 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPTWBSY&layout=compact)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPTWBSY&layout=compact)](https://github.com/KPTWBSY/github-readme-stats)
+
 
 ##
 
