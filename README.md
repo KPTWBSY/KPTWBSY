@@ -1,8 +1,8 @@
 ### KPTWBSY
 
-##Tech
+## Tech
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![Unity](https://img.shields.io/badge/Unity-F7DF1E?style=flat-square&logo=Unity&logoColor=white)]
 
 <!--
 **KPTWBSY/KPTWBSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
