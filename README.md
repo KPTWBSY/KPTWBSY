@@ -1,5 +1,9 @@
 ### KPTWBSY
 
+## About me
+
+### 테스트
+
 ## Tech
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
@@ -7,6 +11,7 @@
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=flat-square&logo=Blender&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-000000?style=flat-square&logo=Luau&logoColor=white)
 
 ##
 
