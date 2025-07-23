@@ -7,7 +7,6 @@
 ![Blender](https://img.shields.io/badge/Blender-000000?style=flat-square&logo=Blender&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white)
 
-
 ##
 
 <div>
