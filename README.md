@@ -1,9 +1,5 @@
 ### KPTWBSY
 
-## About me
-
-### - 테스트
-
 ## Tech
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
@@ -22,7 +18,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPTWBSY&layout=compact)
 
-##
+## Projects
 
 
 <!--
