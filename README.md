@@ -19,6 +19,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPTWBSY&layout=compact)
 
 ## Projects
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/23a5600a3bb381bea6b3c80be5815eed)
 
 
 <!--
